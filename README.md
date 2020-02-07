@@ -18,3 +18,4 @@ Machine learning algorithms (MLA) for different tasks in field development and e
 ### Table of contents:
     1. Bagging and Random Forest
     2. Gradient boosting
+    **to be continued**
