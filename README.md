@@ -1,7 +1,7 @@
-###            OPTIMIZATION OF STEAM-ASSISTED GRAVITY DRAINAGE USING MACHINE LEARNING ALGORITHM
+###  OPTIMIZATION OF STEAM-ASSISTED GRAVITY DRAINAGE USING MACHINE LEARNING ALGORITHM
 ![screenshot of sample](https://apschool.ru/wp-content/uploads/2016/06/2010-11-depth-conversion-fig03-1024x752.jpg)
 
-                         Steam-assisted gravity drainage (SAGD) is a thermal enhanced oil recovery method.
+                       Steam-assisted gravity drainage (SAGD) is a thermal enhanced oil recovery method
 
 ## Abstract 
 Machine learning algorithms (MLA) for different tasks in field development and enhancement oil recovery optimization find their application in recent years. For better performance of SAGD was analysed different technological parameters of process such as temperature 
