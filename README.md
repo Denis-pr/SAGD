@@ -12,4 +12,9 @@ Machine learning algorithms (MLA) for different tasks in field development and e
         3. steam 
         4. reservoir 
         5. simulation 
-        6.EOR
+        6. EOR
+
+
+### Table of contents:
+    1. Bagging and Random Forest
+    2. Gradient boosting
